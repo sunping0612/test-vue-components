@@ -1,4 +1,4 @@
-import Test from '../packages/test/index.js';
+import Test from './packages/test/index.js';
 
 // const components = [
 //   Test,
