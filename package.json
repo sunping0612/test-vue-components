@@ -1,0 +1,19 @@
+{
+  "name": "test-vue-components",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunping0612/test-vue-components.git"
+  },
+  "author": "sunping0612",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunping0612/test-vue-components/issues"
+  },
+  "homepage": "https://github.com/sunping0612/test-vue-components#readme"
+}
